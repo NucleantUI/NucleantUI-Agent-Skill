@@ -1,0 +1,14 @@
+{
+  "name": "nucleantui-pro",
+  "version": "1.0.0",
+  "description": "Reviews NucleantUI code for best practices on its API, cross-platform rules, maintainability, and performance. Based on Paul Hudson's SwiftUI Pro.",
+  "author": {
+    "name": "NucleantUI"
+  },
+  "homepage": "https://github.com/NucleantUI/NucleantUI-Agent-Skill",
+  "repository": "https://github.com/NucleantUI/NucleantUI-Agent-Skill",
+  "license": "MIT",
+  "skills": [
+    "./nucleantui-pro"
+  ]
+}

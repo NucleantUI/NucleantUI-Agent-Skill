@@ -1,0 +1,7 @@
+interface:
+  display_name: "NucleantUI Pro"
+  short_description: "Reviews NucleantUI code for current best practices."
+  default_prompt: "Use $nucleantui-pro to review my project."
+
+policy:
+  allow_implicit_invocation: true
