@@ -1,0 +1,21 @@
+{
+  "name": "nucleantui-agent-skill",
+  "owner": { "name": "NucleantUI" },
+  "metadata": {
+    "description": "Agent skills for NucleantUI development, based on Paul Hudson's SwiftUI Pro",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nucleantui-pro",
+      "source": "./",
+      "description": "Reviews NucleantUI code for best practices on its API, cross-platform rules, maintainability, and performance.",
+      "version": "1.0.0",
+      "author": { "name": "NucleantUI" },
+      "homepage": "https://github.com/NucleantUI/NucleantUI-Agent-Skill",
+      "repository": "https://github.com/NucleantUI/NucleantUI-Agent-Skill",
+      "license": "MIT",
+      "keywords": ["nucleantui", "swiftui", "swift", "cross-platform", "code-review"]
+    }
+  ]
+}
